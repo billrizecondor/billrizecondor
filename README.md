@@ -22,14 +22,6 @@ I work where natural hazards, geospatial data and society meet. Most recently I 
 - **MSc Energy Engineering**, University of the Philippines Diliman, 2018 – 2021 · ERDT Scholarship
 - **BSc Petroleum Engineering**, Palawan State University, 2013 – 2018 · President's List
 
-### Expertise
-
-| | Area | Focus |
-|---|---|---|
-| **Core** | Climate & disaster risk | Hazard, exposure and vulnerability assessment; resilience and financial materiality; hydro-meteorological and water-resource risk |
-| **Core** | GIS & risk data | QGIS, spatial analysis, vulnerability mapping; multi-source hazard, geospatial, infrastructure and financial datasets; cross-dataset validation |
-| Secondary | Energy transition | Life cycle assessment (ISO 14040/44, openLCA, ecoinvent), techno-economic analysis, energy-systems modelling, digital twins |
-
 ### Selected work
 
 Each project links to an interactive demo built from the original results, with the code behind it.
