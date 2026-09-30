@@ -32,7 +32,7 @@ Each project links to an interactive demo built from the original results, with 
 | [EV vs. Petrol Car LCA](https://github.com/billrizecondor/lca-ev-ice) · [demo](https://billrizecondor.github.io/lca-ev-ice/) | Energy transition | EVs cut lifetime CO₂-eq by 54–78% depending on the grid |
 | [Bus-to-Grid for Berlin's E-Buses](https://github.com/billrizecondor/ev) · [demo](https://billrizecondor.github.io/ev/) | Energy transition | +€41M CAPEX lifts the OPEX benefit from 16–21% to 22–33% |
 | [Sustainable Aviation Fuel for the Philippines](https://github.com/billrizecondor/saf_projects_me3) · [demo](https://billrizecondor.github.io/saf_projects_me3/) | Energy transition | €4.8–7.9B to switch national jet fuel to e-kerosene |
-| [Dual-Fuel Engine Digital Twin](https://github.com/billrizecondor/dual_fuel_engine_digital_twin) | Energy transition | ML models for exhaust temperature and efficiency, with a 3D twin |
+| [Dual-Fuel Engine Digital Twin](https://github.com/billrizecondor/dual_fuel_engine_digital_twin) · [demo](https://billrizecondor.github.io/dual_fuel_engine_digital_twin/) | Energy transition | Run an 18 kW biogas engine twin in the browser: KNN efficiency (R² 0.93) and exhaust model (R² 0.96) |
 | [Global Climate Risk Dashboard](https://github.com/billrizecondor/climate-nexus-project) · [demo](https://billrizecondor.github.io/climate-nexus-project/) | Climate risk | Four sector risk layers across 244 countries and territories |
 
 ### Publications
