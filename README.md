@@ -1,6 +1,6 @@
 ## Billriz Condor · Climate Risk Analyst
 
-I work where natural hazards, geospatial data and society meet. Most recently I assessed **asset-level physical climate risk** for infrastructure portfolios at **Scientific Climate Ratings (EDHEC Ventures)** in Paris, covering hazard, exposure, vulnerability, resilience and financial materiality. Before that I spent five years on applied climate and environmental-risk research in the Philippines, one of the world's most disaster-prone countries.
+I work where natural hazards, geospatial data and society meet. Most recently I assessed **asset-level physical climate risk** for infrastructure investment portfolios in Paris, covering hazard, exposure, vulnerability, resilience and financial materiality. Before that I spent five years on applied climate and environmental-risk research in the Philippines, one of the world's most disaster-prone countries.
 
 **Life cycle assessment** and **energy-transition modelling** are my supporting expertise.
 
