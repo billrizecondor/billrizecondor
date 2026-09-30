@@ -1,17 +1,34 @@
 ## Billriz Condor · Climate Risk Analyst
 
-I turn climate data into risk insight. I measure how **exposed and vulnerable** countries are to climate hazards, and turn that evidence into clear analysis for policy and climate finance. My research focus is the Philippines, which ranks first in the world for climate risk.
+I work where natural hazards, geospatial data and society meet. Most recently I assessed **asset-level physical climate risk** for infrastructure portfolios at **Scientific Climate Ratings (EDHEC Ventures)** in Paris, covering hazard, exposure, vulnerability, resilience and financial materiality. Before that I spent five years on applied climate and environmental-risk research in the Philippines, one of the world's most disaster-prone countries.
 
-**Life cycle assessment** and **energy-transition modelling** are my supporting expertise, built during the ME3 master's programme (Management and Engineering of Environment and Energy) at IMT Atlantique (Nantes) and BME (Budapest).
+**Life cycle assessment** and **energy-transition modelling** are my supporting expertise.
 
-🌐 [billrizecondor.github.io](https://billrizecondor.github.io) · ✉️ billrizecondor@gmail.com
+📍 Paris, France · 🌐 [billrizecondor.github.io](https://billrizecondor.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/billriz-condor) · ✉️ billrizecondor@gmail.com
+
+### Experience
+
+| Role | Organisation | Period |
+|---|---|---|
+| **Climate Risk Intern**: asset-level physical climate-risk assessment across infrastructure portfolios | Scientific Climate Ratings (EDHEC Ventures), Paris | Mar – Aug 2026 |
+| **MS Graduate Research Fellow**: led a USD 60K climate-action project and a team of 5; briefed 100+ government leaders | UP Cebu Center for Environmental Informatics | 2022 – 2024 |
+| **Science Research Specialist**: GIS vulnerability mapping for groundwater contamination and seawater intrusion | UP Cebu Center for Environmental Informatics | 2021 – 2022 |
+| **Visiting Researcher**: renewable-energy and bioenergy research | NCKU Energy & Environment Laboratory, Taiwan | 2019 – 2020 |
+
+### Education
+
+- **Erasmus Mundus Joint Master's, Management of Energy & Environment Engineering (ME3)**, IMT Atlantique (France) & BME (Hungary), 2024 – 2026 · *Completed* · Erasmus Mundus Scholarship
+  - Thesis: *Quantifying Geospatial Uncertainty in Asset-Level Climate Risk Assessments*
+- **MSc Energy Engineering**, University of the Philippines Diliman, 2018 – 2021 · ERDT Scholarship
+- **BSc Petroleum Engineering**, Palawan State University, 2013 – 2018 · President's List
 
 ### Expertise
 
 | | Area | Focus |
 |---|---|---|
-| **Core** | Climate risk & resilience | Hazard exposure, vulnerability and composite risk indices (WorldRiskIndex framework), climate data pipelines, risk dashboards, climate policy and finance |
-| Secondary | Energy transition | Life cycle assessment (ISO 14040/44, openLCA, ecoinvent), techno-economic analysis, e-mobility and V2G, sustainable aviation fuels |
+| **Core** | Climate & disaster risk | Hazard, exposure and vulnerability assessment; resilience and financial materiality; hydro-meteorological and water-resource risk |
+| **Core** | GIS & risk data | QGIS, spatial analysis, vulnerability mapping; multi-source hazard, geospatial, infrastructure and financial datasets; cross-dataset validation |
+| Secondary | Energy transition | Life cycle assessment (ISO 14040/44, openLCA, ecoinvent), techno-economic analysis, energy-systems modelling, digital twins |
 
 ### Selected work
 
@@ -26,6 +43,16 @@ Each project links to an interactive demo built from the original results, with 
 | [Dual-Fuel Engine Digital Twin](https://github.com/billrizecondor/dual_fuel_engine_digital_twin) | Energy transition | ML models for exhaust temperature and efficiency, with a 3D twin |
 | [Global Climate Risk Dashboard](https://github.com/billrizecondor/climate-nexus-project) · [demo](https://billrizecondor.github.io/climate-nexus-project/) | Climate risk | Four sector risk layers across 244 countries and territories |
 
+### Publications
+
+- Groundwater monitoring network design for seawater intrusion. *IOP Conf. Ser.: Earth Environ. Sci.* · [doi:10.1088/1755-1315/1094/1/012002](https://doi.org/10.1088/1755-1315/1094/1/012002)
+- CO₂ and wastewater effects on *C. vulgaris* for bioethanol. *Applied Energy* · [doi:10.1016/j.apenergy.2024.123617](https://doi.org/10.1016/j.apenergy.2024.123617)
+- Bioethanol from microalgae at high-solids loadings. *Bioresource Technology* · [doi:10.1016/j.biortech.2022.128002](https://doi.org/10.1016/j.biortech.2022.128002)
+- Microalgae carbohydrate optimization for bioethanol production. *International Journal of Energy Research* · [doi:10.1002/er.7709](https://doi.org/10.1002/er.7709)
+- Groundwater vulnerability assessment of Metro Cebu. *NRCP Research Journal* (article 95)
+
 ### Tools
 
-Python (pandas, NumPy, scikit-learn) · JavaScript · Plotly · Chart.js · Excel · openLCA · ecoinvent · Git
+Python (pandas, NumPy, scikit-learn) · R · MATLAB · QGIS · JavaScript · Plotly · Chart.js · Excel · openLCA · ecoinvent · Git
+
+**Languages:** English (C1) · French (B1) · Filipino (native)
